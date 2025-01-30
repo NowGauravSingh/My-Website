@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Real Estate Application (Home Finder)",
+    "desc": "Home Finder: A dynamic real estate platform where users can effortlessly discover their ideal homes, while realtors manage listings with ease, all built with the power of MERN stack and Redux.",
+    "image": "House.jpg",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "A Restaurant's Website",
+    "desc": "Developed a fully responsive and visually appealing restaurant website with an intuitive user interface, showcasing the menu, online reservations, and location features.",
+    "image": "Restaurant.jpg",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+  
+  
+  
+  
+]
